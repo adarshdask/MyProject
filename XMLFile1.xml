@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements
+xmlns="http://schemas.microsoft.com/AspNet/AdRotator-Schedule-File">
+  <Ad>
+    <ImageUrl>img/ad/1.PNG</ImageUrl>
+    
+    
+    <Impressions>100</Impressions>
+    <Keyword>VB.NET</Keyword>
+
+  </Ad>
+
+</Advertisements>

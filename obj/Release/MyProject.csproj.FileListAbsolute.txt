@@ -1,0 +1,21 @@
+C:\Users\prakash\Desktop\MyProject R2\MyProject R2\MyProject\bin\MyProject.dll
+C:\Users\prakash\Desktop\MyProject R2\MyProject R2\MyProject\bin\MyProject.pdb
+C:\Users\prakash\Desktop\MyProject R2\MyProject R2\MyProject\obj\Release\ResolveAssemblyReference.cache
+C:\Users\prakash\Desktop\MyProject R2\MyProject R2\MyProject\obj\Release\MyProject.dll
+C:\Users\prakash\Desktop\MyProject R2\MyProject R2\MyProject\obj\Release\MyProject.pdb
+C:\Users\Adarsh Das K\Desktop\uyf\C#\MyProject\bin\MyProject.dll
+C:\Users\Adarsh Das K\Desktop\uyf\C#\MyProject\bin\MyProject.pdb
+C:\Users\Adarsh Das K\Desktop\uyf\C#\MyProject\obj\Release\MyProject.dll
+C:\Users\Adarsh Das K\Desktop\uyf\C#\MyProject\obj\Release\MyProject.pdb
+C:\Users\Adarsh Das K\Desktop\uyf\C#\MyProject\bin\MyProject.dll.config
+C:\Users\Adarsh Das K\Desktop\uyf\C#\MyProject\obj\Release\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\Adarsh Das K\Desktop\shoppster project\C#\MyProject\bin\MyProject.dll.config
+C:\Users\Adarsh Das K\Desktop\shoppster project\C#\MyProject\bin\MyProject.dll
+C:\Users\Adarsh Das K\Desktop\shoppster project\C#\MyProject\bin\MyProject.pdb
+C:\Users\Adarsh Das K\Desktop\shoppster project\C#\MyProject\obj\Release\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\Adarsh Das K\Desktop\shoppster project\C#\MyProject\obj\Release\MyProject.dll
+C:\Users\Adarsh Das K\Desktop\shoppster project\C#\MyProject\obj\Release\MyProject.pdb
+C:\Users\Adarsh Das K\Desktop\shoppster project\C#\MyProject\bin\paytm.dll
+C:\Users\Adarsh Das K\Desktop\shoppster project\C#\MyProject\bin\ClosedXML.dll
+C:\Users\Adarsh Das K\Desktop\shoppster project\C#\MyProject\bin\DocumentFormat.OpenXml.dll
+C:\Users\Adarsh Das K\Desktop\shoppster project\C#\MyProject\bin\ClosedXML.xml
